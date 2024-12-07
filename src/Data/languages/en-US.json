@@ -1,0 +1,14 @@
+{
+  "score": "Score:",
+  "maxScore": "Maximum Score:",
+  "numVit": "Number of Merges to Win:",
+  "difficulty": "Difficulty:",
+  "easy": "Easy",
+  "normal": "Normal",
+  "startGame": "Start Game",
+  "addNumbers": "Combine the numbers and reach the square",
+  "youWin": "You Win!!!",
+  "gameOver": "Game Over",
+  "return": "Return to Menu",
+  "restart": "Restart Game"
+}

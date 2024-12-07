@@ -1,0 +1,14 @@
+{
+  "score": "Pontuação:",
+  "maxScore": "Pontuação Máxima:",
+  "numVit": "Número de Somas para Vitória:",
+  "difficulty": "Dificuldade:",
+  "easy": "Fácil",
+  "normal": "Normal",
+  "startGame": "Iniciar Jogo",
+  "addNumbers": "Junte os números e chegue ao quadrado",
+  "youWin": "Você venceu!!!",
+  "gameOver": "Fim de Jogo",
+  "return": "Retornar ao Menu",
+  "restart": "Reiniciar Jogo"
+}
